@@ -1,0 +1,5 @@
+Intermediate/Build/*
+*.pdb
+*.suo
+.vs/Platformer/v15/Browse.VC.opendb
+.vs/Platformer/v15/Browse.VC.db
